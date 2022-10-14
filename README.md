@@ -5,3 +5,4 @@ Where in this case we will be work on Juja mall, a web app that manages all smal
 
 ### Group Members
 1. Jeff Odhiambo
+2. Gloria Nyambura
